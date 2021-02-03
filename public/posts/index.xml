@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geral on Campestre FS</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Geral on Campestre FS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caio</title>
+      <link>http://example.org/posts/caio/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/caio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caique</title>
+      <link>http://example.org/posts/caique/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/caique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erick</title>
+      <link>http://example.org/posts/erick/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/erick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felipe Nascimento</title>
+      <link>http://example.org/posts/ceara/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ceara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Agripino</title>
+      <link>http://example.org/posts/agripino/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/agripino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nakata</title>
+      <link>http://example.org/posts/nakata/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/nakata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Conte</title>
+      <link>http://example.org/posts/rodrigoconte/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/rodrigoconte/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
