@@ -63,8 +63,4 @@
     <loc>http://example.org/tags/</loc>
   </url>
   
-  <url>
-    <loc>http://example.org/campestre/videos/</loc>
-  </url>
-  
 </urlset>
